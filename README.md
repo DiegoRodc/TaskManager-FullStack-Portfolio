@@ -180,3 +180,4 @@ Potential areas for future development include:
 ## Author
  
 Developed as a full-stack software development project.
+Diego Orozco (@DiegoRodc)
